@@ -1,0 +1,7 @@
+*.o
+*.out
+*.exe
+*.log
+*.bin
+*.DS_Store
+bh_sim
